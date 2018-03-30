@@ -1,0 +1,2 @@
+# MegaTexture
+MegaTexture prototype
